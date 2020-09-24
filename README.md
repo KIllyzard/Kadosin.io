@@ -22,11 +22,11 @@
 ### Диаграмма прецедентов
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/Диграмма.png)
 ## Лабораторная 3
-### DFD - 1 
-![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/DFD.png)
-### DFD - 2
+### DFD 
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/DFD%20(2).png)
 ![модель rsf](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/Model.rsf)
+### Диграма ERD (всех потоков)
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/3lab/ERD.png)
 ### Диаграмма последовательности
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/UML.png)
 ## Лабораторная 4
