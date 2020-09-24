@@ -3,10 +3,10 @@
 
 ## Лабораторная 1
 
-###Предложение: Собрать кухню
+### Предложение: Собрать кухню
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/1lab/Model.png)
 Рабочий Собирает Кухню по Инструкции из Деталей с помощью Инструментов
-###Class Diagram
+### Class Diagram
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/1lab/UML.png)
 
 ### Usecase diagram
