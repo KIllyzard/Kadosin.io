@@ -3,11 +3,14 @@
 
 ## Лабораторная 1
 
-Текст с постановкой задачи
+###Предложение: Собрать кухню
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/1lab/Model.png)
+Рабочий Собирает Кухню по Инструкции из Деталей с помощью Инструментов
+###Class Diagram
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/1lab/UML.png)
 
-Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
-
-Ссылки на доп.материалы
+### Usecase diagram
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/1lab/DP.png)
 
 ## Лабораторная 2
 
