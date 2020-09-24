@@ -19,7 +19,7 @@
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/PDC.png)
 ![модель rsf](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/Model.rsf)
 ### Диаграмма прецедентов
-
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/Диграмма.png)
 ## Лабораторная 3
 ### DFD - 1 
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/DFD.png)
