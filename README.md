@@ -13,9 +13,18 @@
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/1lab/DP.png)
 
 ## Лабораторная 2
-
+#### IDEF0 
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/IDEF0.png)
+### Определение надсистемы (среды функционирования)
+#### Plan-Do-Check
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/PDC.png)
+![модель rsf](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/Model.rsf)
 ## Лабораторная 3
-
+### DFD - 1 
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/DFD.png)
+### DFD - 2
+![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/DFD%20(2).png)
+![модель rsf](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/Model.rsf)
 ## Лабораторная 4
 
 ## Лабораторная 5
