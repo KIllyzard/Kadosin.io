@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Рабочий" as P {
+ Инструменты
+Кухня Собрать (Детали, Инструкция)
+}
+hide circle
+@enduml
