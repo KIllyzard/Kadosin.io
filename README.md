@@ -27,8 +27,10 @@
 ![модель rsf](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/Model.rsf)
 ### Диграма ERD (всех потоков)
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/3lab/ERD.png)
+Потоки делятся на входящие, выходящие и управляющие. Входящие делятся на ресурсы и документы, управляющие только на документы и выходящие на ресурсы.
 ### Диаграмма последовательности
 ![none](https://github.com/KIllyzard/Kadosin.io/blob/master/2lab/UML.png)
+Архитектор дает задачу рабочему, проходя по этам архитектор получает модель помещения
 ## Лабораторная 4
 
 ## Лабораторная 5
